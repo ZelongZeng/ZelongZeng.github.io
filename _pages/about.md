@@ -47,4 +47,4 @@ I’m currently a Researcher at [SenseTime Japan](https://www.sensetime.jp/) (�
 - *2020.02 - 2020.08*, Research Intern in *Honda R&D Co., Ltd*, Japan
 
 # 🌍 Counter
-<a href='https://clustrmaps.com/site/1buc1'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=300&t=tt&d=aP7zqirnyoPerf9ekBm9MXOpO-5Kg6Id32veLKW-cdU&co=2d78ad&ct=ffffff'/></a>
+<body><script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=aP7zqirnyoPerf9ekBm9MXOpO-5Kg6Id32veLKW-cdU&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353'></script></body>
