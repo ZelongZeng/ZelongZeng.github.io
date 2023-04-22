@@ -17,42 +17,29 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I’m currently a Researcher at [SenseTime Japan Ltd](https://www.sensetime.jp/) (センスタイムジャパン), where I work on deep learning and computer vision related to autonomous driving technology. I received my PhD degree from the Graduate School of IST, [the University of Tokyo](https://www.i.u-tokyo.ac.jp/index.shtml) in March, 2023, advised by Prof. [Shin'ichi Satoh](https://scholar.google.com/citations?hl=en&user=7aEF5cQAAAAJ&view_op=list_works&sortby=pubdate). Before that, I receive my Master's degrees from the University of Tokyo in 2020 and the bachelor’s degree from Shandong University in 2016. 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+**Research interest:** Object detection / segmentation related to autonomous driving, image retrieval and metric learning. *If you are seeking any form of academic cooperation or [intership](https://www.sensetime.jp/joinus/internship), please feel free to email me at [zengzelong@sensetime.jp](zengzelong@sensetime.jp)* 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- 2023.4: I join [SenseTime Japan Ltd](https://www.sensetime.jp/) (センスタイムジャパン) as a AI Researcher in Tokyo. 
+- 2023.3: 🎉🎉 I successfully received my PhD degree from the University of Tokyo! 
+- 2023.3: I released the code ([PLCD](https://github.com/ZelongZeng/PLCD) and [OBD-SD](https://github.com/ZelongZeng/OBD-SD_Pytorch)) of my two papers in Github. 
 
 # 📝 Publications 
+- ``Preprint 2022`` [Self-distillation with Online Diffusion on Batch Manifolds Improves Deep Metric Learning](https://arxiv.org/abs/2211.07566) **Zelong Zeng**, Fan Yang, Hong Liu, Shin'ichi Satoh \| [**Code**](https://github.com/ZelongZeng/PLCD) 
+- ``IEEE TMM 2022`` [Illumination-adaptive person re-identification](https://ieeexplore.ieee.org/abstract/document/8970561), **Zelong Zeng**, Zhixiang Wang, Zheng Wang, Shin'ichi Satoh, **IEEE Transactions on Multimedia 2022** \| [**Code**](https://github.com/ZelongZeng/OBD-SD_Pytorch) 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- ``ACM-MM 2020`` [Progressive Domain Adaptation for Robot Vision Person Re-identification](https://dl.acm.org/doi/abs/10.1145/3394171.3414358), Zijun Sha, **Zelong Zeng (co-first author)**, Zheng Wang, Yoichi Natori, Yasuhiro Taniguchi, Shin'ichi Satoh \| [**Demo**](https://www.youtube.com/watch?v=W8W_N0vrHsQ) 
+- ``IEEE TMM 2020`` [Illumination-adaptive person re-identification](https://ieeexplore.ieee.org/abstract/document/8970561), **Zelong Zeng**, Zhixiang Wang, Zheng Wang, Shin'ichi Satoh, **IEEE Transactions on Multimedia 2020**
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2020.04 - 2023.03*, Ph.D in Information and Communication Engineering, The University of Tokyo, Japan
+- *2018.04 - 2020.03*, M.E in Information and Communication Engineering, The University of Tokyo, Japan
+- *2012.09 - 2016.06*, B.E, in Mechanical,Electrical & Information Engineering, Shandong University, China
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💼 Experience 
+- *2021.4 - 2023.3*, Research Assistant in *[Mercari R4D](https://r4d.mercari.com/)* and *[RIISE](https://www.riise.u-tokyo.ac.jp/)*, Japan
+- *2021.4 - 2023.3*, Research Assistant in *The Graduate School of Information Science and Technology, The University of Tokyo*, Japan
+- *2020.2 - 2020.8*, Research Intern in *Honda R&D Co., Ltd*, Japan
