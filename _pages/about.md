@@ -30,7 +30,6 @@ I’m currently a Researcher at [SenseTime Japan](https://www.sensetime.jp/) (�
 - 2023.3: I released the code ([PLCD](https://github.com/ZelongZeng/PLCD) and [OBD-SD](https://github.com/ZelongZeng/OBD-SD_Pytorch)) of my two papers in Github. 
 
 # 📝 Publications 
-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2019</div></div></div><div class='paper-box-text' markdown="1"> [Self-distillation with Online Diffusion on Batch Manifolds Improves Deep Metric Learning](https://arxiv.org/abs/2211.07566) **Zelong Zeng**, Fan Yang, Hong Liu, Shin'ichi Satoh \| [**Code**](https://github.com/ZelongZeng/PLCD) 
 - ``Preprint 2022`` [Self-distillation with Online Diffusion on Batch Manifolds Improves Deep Metric Learning](https://arxiv.org/abs/2211.07566) **Zelong Zeng**, Fan Yang, Hong Liu, Shin'ichi Satoh \| [**Code**](https://github.com/ZelongZeng/PLCD) 
 - ``IEEE TMM 2022`` [Illumination-adaptive person re-identification](https://ieeexplore.ieee.org/abstract/document/8970561), **Zelong Zeng**, Zhixiang Wang, Zheng Wang, Shin'ichi Satoh, **IEEE Transactions on Multimedia 2022** \| [**Code**](https://github.com/ZelongZeng/OBD-SD_Pytorch) 
 
