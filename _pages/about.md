@@ -46,5 +46,5 @@ I’m currently a Researcher at [SenseTime Japan](https://www.sensetime.jp/) (�
 - *2021.04 - 2023.03*, Research Assistant in *The Graduate School of Information Science and Technology, The University of Tokyo*, Japan
 - *2020.02 - 2020.08*, Research Intern in *Honda R&D Co., Ltd*, Japan
 
-# 🌍
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=70&t=n&d=aP7zqirnyoPerf9ekBm9MXOpO-5Kg6Id32veLKW-cdU&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
+# 🌍 Counter
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=aP7zqirnyoPerf9ekBm9MXOpO-5Kg6Id32veLKW-cdU&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
