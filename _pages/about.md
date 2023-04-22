@@ -28,6 +28,7 @@ I’m currently a Researcher at [SenseTime Japan Ltd](https://www.sensetime.jp/)
 - 2023.3: I released the code ([PLCD](https://github.com/ZelongZeng/PLCD) and [OBD-SD](https://github.com/ZelongZeng/OBD-SD_Pytorch)) of my two papers in Github. 
 
 # 📝 Publications 
+- <table><tr><td bgcolor=blue><font color=white size=1> CVPR2012</font> </td></tr></table>
 - ``Preprint 2022`` [Self-distillation with Online Diffusion on Batch Manifolds Improves Deep Metric Learning](https://arxiv.org/abs/2211.07566) **Zelong Zeng**, Fan Yang, Hong Liu, Shin'ichi Satoh \| [**Code**](https://github.com/ZelongZeng/PLCD) 
 - ``IEEE TMM 2022`` [Illumination-adaptive person re-identification](https://ieeexplore.ieee.org/abstract/document/8970561), **Zelong Zeng**, Zhixiang Wang, Zheng Wang, Shin'ichi Satoh, **IEEE Transactions on Multimedia 2022** \| [**Code**](https://github.com/ZelongZeng/OBD-SD_Pytorch) 
 
