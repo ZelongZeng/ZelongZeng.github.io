@@ -30,8 +30,8 @@ I’m currently a Researcher at [SenseTime Japan](https://www.sensetime.jp/) (�
 - 2023.03: I released the code ([PLCD](https://github.com/ZelongZeng/PLCD) and [OBD-SD](https://github.com/ZelongZeng/OBD-SD_Pytorch)) of my two papers in Github. 
 
 # 📝 Publications 
-- ``Preprint 2022`` [Self-distillation with Online Diffusion on Batch Manifolds Improves Deep Metric Learning](https://arxiv.org/abs/2211.07566) **Zelong Zeng**, Fan Yang, Hong Liu, Shin'ichi Satoh \| [**Code**](https://github.com/ZelongZeng/PLCD) 
-- ``IEEE TMM 2022`` [Illumination-adaptive person re-identification](https://ieeexplore.ieee.org/abstract/document/8970561), **Zelong Zeng**, Zhixiang Wang, Zheng Wang, Shin'ichi Satoh, **IEEE Transactions on Multimedia 2022** \| [**Code**](https://github.com/ZelongZeng/OBD-SD_Pytorch) 
+- ``Preprint 2022`` [Self-distillation with Online Diffusion on Batch Manifolds Improves Deep Metric Learning](https://arxiv.org/abs/2211.07566) **Zelong Zeng**, Fan Yang, Hong Liu, Shin'ichi Satoh \| [**Code**](https://github.com/ZelongZeng/OBD-SD_Pytorch) 
+- ``IEEE TMM 2022`` [Illumination-adaptive person re-identification](https://ieeexplore.ieee.org/abstract/document/8970561), **Zelong Zeng**, Zhixiang Wang, Zheng Wang, Shin'ichi Satoh, **IEEE Transactions on Multimedia 2022** \| [**Code**](https://github.com/ZelongZeng/PLCD) 
 
 - ``ACM-MM 2020`` [Progressive Domain Adaptation for Robot Vision Person Re-identification](https://dl.acm.org/doi/abs/10.1145/3394171.3414358), Zijun Sha, **Zelong Zeng (co-first author)**, Zheng Wang, Yoichi Natori, Yasuhiro Taniguchi, Shin'ichi Satoh \| [**Demo**](https://www.youtube.com/watch?v=W8W_N0vrHsQ) 
 - ``IEEE TMM 2020`` [Illumination-adaptive person re-identification](https://ieeexplore.ieee.org/abstract/document/8970561), **Zelong Zeng**, Zhixiang Wang, Zheng Wang, Shin'ichi Satoh, **IEEE Transactions on Multimedia 2020**
@@ -43,8 +43,8 @@ I’m currently a Researcher at [SenseTime Japan](https://www.sensetime.jp/) (�
 
 # 💼 Experience 
 - *2021.04 - 2023.03*, Research Assistant in *[Mercari R4D](https://r4d.mercari.com/)* and *[RIISE](https://www.riise.u-tokyo.ac.jp/)*, Japan
-- *2021.04 - 2023.03*, Research Assistant in *The Graduate School of Information Science and Technology, The University of Tokyo*, Japan
-- *2020.02 - 2020.08*, Research Intern in *Honda R&D Co., Ltd*, Japan
+- *2021.04 - 2023.03*, Research Assistant in *[The Graduate School of IST, The University of Tokyo](https://www.i.u-tokyo.ac.jp/index.shtml)*, Japan
+- *2020.02 - 2020.08*, Research Intern in *[Honda R&D](https://www.honda.co.jp/RandD/)*, Japan
 
 # 🌍 Counter
 <body><script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=aP7zqirnyoPerf9ekBm9MXOpO-5Kg6Id32veLKW-cdU&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353'></script></body>
