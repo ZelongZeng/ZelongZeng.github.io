@@ -45,6 +45,3 @@ I’m currently a Researcher at [SenseTime Japan](https://www.sensetime.jp/) (�
 - *2021.04 - 2023.03*, Research Assistant in *[Mercari R4D](https://r4d.mercari.com/)* and *[RIISE](https://www.riise.u-tokyo.ac.jp/)*, Japan
 - *2021.04 - 2023.03*, Research Assistant in *The Graduate School of Information Science and Technology, The University of Tokyo*, Japan
 - *2020.02 - 2020.08*, Research Intern in *Honda R&D Co., Ltd*, Japan
-
-# 🌍
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=aP7zqirnyoPerf9ekBm9MXOpO-5Kg6Id32veLKW-cdU"></script>
