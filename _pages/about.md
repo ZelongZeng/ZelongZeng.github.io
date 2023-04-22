@@ -19,15 +19,15 @@ redirect_from:
 
 # About Me
 Hi, there 👋.
-I’m currently a Researcher at [SenseTime Japan](https://www.sensetime.jp/) (センスタイムジャパン), where I work on deep learning and computer vision related to autonomous driving technology. I received my PhD degree from the Graduate School of IST, [the University of Tokyo](https://www.i.u-tokyo.ac.jp/index.shtml) in March, 2023, advised by Prof. [Shin'ichi Satoh](https://scholar.google.com/citations?hl=en&user=7aEF5cQAAAAJ&view_op=list_works&sortby=pubdate). Before that, I receive my Master's degrees from the University of Tokyo in 2020 and the bachelor’s degree from Shandong University in 2016. 
+I’m currently a Researcher at [SenseTime Japan](https://www.sensetime.jp/) (センスタイムジャパン), where I work on deep learning and computer vision related to autonomous driving technology. I received my PhD degree from the Graduate School of IST at [the University of Tokyo](https://www.i.u-tokyo.ac.jp/index.shtml) in March 2023, advised by Prof. [Shin'ichi Satoh](https://scholar.google.com/citations?hl=en&user=7aEF5cQAAAAJ&view_op=list_works&sortby=pubdate). Before that, I received my Master's degrees from the University of Tokyo in 2020 and the bachelor’s degree from Shandong University in 2016. 
 
 **Research interest:** Object detection / segmentation related to autonomous driving, image retrieval and metric learning. *If you are seeking any form of academic cooperation or [intership](https://www.sensetime.jp/joinus/internship), please feel free to email me at [zengzelong@sensetime.jp](zengzelong@sensetime.jp)* 
 
 
 # 🔥 News
-- 2023.4: I join [SenseTime Japan](https://www.sensetime.jp/) (センスタイムジャパン) as a AI Researcher in Tokyo. 
-- 2023.3: 🎉🎉 I successfully received my PhD degree from the University of Tokyo! 
-- 2023.3: I released the code ([PLCD](https://github.com/ZelongZeng/PLCD) and [OBD-SD](https://github.com/ZelongZeng/OBD-SD_Pytorch)) of my two papers in Github. 
+- 2023.04: I join [SenseTime Japan](https://www.sensetime.jp/) (センスタイムジャパン) as a AI Researcher in Tokyo. 
+- 2023.03: 🎉🎉 I successfully received my PhD degree from the University of Tokyo! 
+- 2023.03: I released the code ([PLCD](https://github.com/ZelongZeng/PLCD) and [OBD-SD](https://github.com/ZelongZeng/OBD-SD_Pytorch)) of my two papers in Github. 
 
 # 📝 Publications 
 - ``Preprint 2022`` [Self-distillation with Online Diffusion on Batch Manifolds Improves Deep Metric Learning](https://arxiv.org/abs/2211.07566) **Zelong Zeng**, Fan Yang, Hong Liu, Shin'ichi Satoh \| [**Code**](https://github.com/ZelongZeng/PLCD) 
@@ -42,6 +42,9 @@ I’m currently a Researcher at [SenseTime Japan](https://www.sensetime.jp/) (�
 - *2012.09 - 2016.06*, B.E, in Mechanical,Electrical & Information Engineering, Shandong University, China
 
 # 💼 Experience 
-- *2021.4 - 2023.3*, Research Assistant in *[Mercari R4D](https://r4d.mercari.com/)* and *[RIISE](https://www.riise.u-tokyo.ac.jp/)*, Japan
-- *2021.4 - 2023.3*, Research Assistant in *The Graduate School of Information Science and Technology, The University of Tokyo*, Japan
-- *2020.2 - 2020.8*, Research Intern in *Honda R&D Co., Ltd*, Japan
+- *2021.04 - 2023.03*, Research Assistant in *[Mercari R4D](https://r4d.mercari.com/)* and *[RIISE](https://www.riise.u-tokyo.ac.jp/)*, Japan
+- *2021.04 - 2023.03*, Research Assistant in *The Graduate School of Information Science and Technology, The University of Tokyo*, Japan
+- *2020.02 - 2020.08*, Research Intern in *Honda R&D Co., Ltd*, Japan
+
+# 🌍
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=aP7zqirnyoPerf9ekBm9MXOpO-5Kg6Id32veLKW-cdU"></script>
