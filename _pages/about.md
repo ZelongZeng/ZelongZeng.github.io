@@ -18,7 +18,8 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About Me
-Hi, there 👋.
+Hi, there 👋. I am Zelong Zeng (曾 泽龙 / 曽　澤龍). 
+
 I’m currently a Researcher at [SenseTime Japan](https://www.sensetime.jp/) (センスタイムジャパン), where I work on deep learning and computer vision related to autonomous driving technology. I received my PhD degree from the Graduate School of IST at [the University of Tokyo](https://www.i.u-tokyo.ac.jp/index.shtml) in March 2023, advised by Prof. [Shin'ichi Satoh](https://scholar.google.com/citations?hl=en&user=7aEF5cQAAAAJ&view_op=list_works&sortby=pubdate). Before that, I received my Master's degrees from the University of Tokyo in 2020 and the bachelor’s degree from Shandong University in 2016. 
 
 **Research interest:** Object detection / segmentation related to autonomous driving, image retrieval and metric learning. *If you are seeking any form of academic cooperation or [intership](https://www.sensetime.jp/joinus/internship), please feel free to email me at [zengzelong@sensetime.jp](zengzelong@sensetime.jp)* 
