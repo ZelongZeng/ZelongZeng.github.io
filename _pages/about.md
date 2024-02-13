@@ -52,7 +52,7 @@ I’m currently a Researcher at [SenseTime Japan](https://www.sensetime.jp/) (�
 - *2020.02 - 2020.08*, Research Intern in *[Honda R&D](https://www.honda.co.jp/RandD/)*, Japan
 
 # 📄 Services
-- PC Member/Reviewer: IEEE TPAMI, IEEE TNNLS, ICMR 2022/2023/2024, ACCV 2022
+- PC Member/Reviewer: IEEE TPAMI, IEEE TNNLS, IEEE TGRS, ICMR 2022/2023/2024, ACCV 2022
 
 # 🌍 Counter
 <body><script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=aP7zqirnyoPerf9ekBm9MXOpO-5Kg6Id32veLKW-cdU&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353'></script></body>
