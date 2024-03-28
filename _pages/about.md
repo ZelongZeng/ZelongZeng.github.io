@@ -26,7 +26,7 @@ I’m currently a Researcher at [SenseTime Japan](https://www.sensetime.jp/) (�
 
 
 # 🔥 News
-- 2023.03: 🎉🎉 One our [paper](https://arxiv.org/abs/2211.07566)(Metic Learning) is accpted to Viusal Intelligence 2024. 
+- 2024.03: 🎉🎉 One our [paper](https://arxiv.org/abs/2211.07566) (Metic Learning) is accpted to Viusal Intelligence 2024. 
 - 2023.04: I join [SenseTime Japan](https://www.sensetime.jp/) (センスタイムジャパン) as a AI Researcher in Tokyo. 
 - 2023.03: 🎉🎉 I successfully received my PhD degree from the University of Tokyo! 
 - 2023.03: I released the code ([PLCD](https://github.com/ZelongZeng/PLCD) and [OBD-SD](https://github.com/ZelongZeng/OBD-SD_Pytorch)) of my two papers in Github. 
