@@ -32,14 +32,14 @@ I’m currently a Researcher at [SenseTime Japan](https://www.sensetime.jp/) (�
 - 2023.03: I released the code ([PLCD](https://github.com/ZelongZeng/PLCD) and [OBD-SD](https://github.com/ZelongZeng/OBD-SD_Pytorch)) of my two papers in Github. 
 
 # 📝 Publications 
-- ``Viusal Intelligence 2024`` [Self-distillation with Online Diffusion on Batch Manifolds Improves Deep Metric Learning](https://arxiv.org/abs/2211.07566) **Zelong Zeng**, Fan Yang, Hong Liu, Shin'ichi Satoh \| [**Code**](https://github.com/ZelongZeng/OBD-SD_Pytorch) 
+- ``Viusal Intelligence 2024`` [Self-distillation with Online Diffusion on Batch Manifolds Improves Deep Metric Learning](https://arxiv.org/abs/2211.07566), **Zelong Zeng**, Fan Yang, Hong Liu, Shin'ichi Satoh \| [**Code**](https://github.com/ZelongZeng/OBD-SD_Pytorch) 
 - ``IEEE TMM 2022`` [Geo-localization via ground-to-satellite cross-view image retrieval](https://ieeexplore.ieee.org/abstract/document/9684950), **Zelong Zeng**, Zheng Wang, Fan Yang, Shin'ichi Satoh, **IEEE Transactions on Multimedia 2022** \| [**Code**](https://github.com/ZelongZeng/PLCD) 
 - ``ACM-MM 2020`` [Progressive Domain Adaptation for Robot Vision Person Re-identification](https://dl.acm.org/doi/abs/10.1145/3394171.3414358), Zijun Sha, **Zelong Zeng (co-first author)**, Zheng Wang, Yoichi Natori, Yasuhiro Taniguchi, Shin'ichi Satoh \| [**Demo**](https://www.youtube.com/watch?v=W8W_N0vrHsQ) 
 - ``IEEE TMM 2020`` [Illumination-adaptive person re-identification](https://ieeexplore.ieee.org/abstract/document/8970561), **Zelong Zeng**, Zhixiang Wang, Zheng Wang, Shin'ichi Satoh, **IEEE Transactions on Multimedia 2020**
 
 # 📄 Preprints
-- ``Preprint 2022`` [Self-distillation with Online Diffusion on Batch Manifolds Improves Deep Metric Learning](https://arxiv.org/abs/2211.07566) **Zelong Zeng**, Fan Yang, Hong Liu, Shin'ichi Satoh \| [**Code**](https://github.com/ZelongZeng/OBD-SD_Pytorch) 
-- ``Preprint 2022`` [Improving Generalization of Metric Learning via Listwise Self-distillation](https://arxiv.org/abs/2206.08880) **Zelong Zeng**, Fan Yang, Zheng Wang, Shin'ichi Satoh \| [**Code**](https://github.com/ZelongZeng/Improving-Generalization-of-Metric-Learning-via-Listwise-Self-distillation) 
+- ``Preprint 2022`` [Self-distillation with Online Diffusion on Batch Manifolds Improves Deep Metric Learning](https://arxiv.org/abs/2211.07566), **Zelong Zeng**, Fan Yang, Hong Liu, Shin'ichi Satoh \| [**Code**](https://github.com/ZelongZeng/OBD-SD_Pytorch) 
+- ``Preprint 2022`` [Improving Generalization of Metric Learning via Listwise Self-distillation](https://arxiv.org/abs/2206.08880), **Zelong Zeng**, Fan Yang, Zheng Wang, Shin'ichi Satoh \| [**Code**](https://github.com/ZelongZeng/Improving-Generalization-of-Metric-Learning-via-Listwise-Self-distillation) 
 
 # 📖 Educations
 - *2020.04 - 2023.03*, Ph.D in Information and Communication Engineering, The University of Tokyo, Japan
