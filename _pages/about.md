@@ -38,6 +38,7 @@ I’m currently a Researcher at [SenseTime Japan](https://www.sensetime.jp/) (�
 - ``IEEE TMM 2020`` [Illumination-adaptive person re-identification](https://ieeexplore.ieee.org/abstract/document/8970561), **Zelong Zeng**, Zhixiang Wang, Zheng Wang, Shin'ichi Satoh, **IEEE Transactions on Multimedia 2020**
 
 # 📄 Preprints
+- ``Preprint 2024`` [Random Walk on Pixel Manifolds for Anomaly Segmentation of Complex Driving Scenes](https://arxiv.org/abs/2404.17961), **Zelong Zeng**, Kaname Tomite\| [**Code**](https://github.com/ZelongZeng/RWPM) 
 - ``Preprint 2022`` [Self-distillation with Online Diffusion on Batch Manifolds Improves Deep Metric Learning](https://arxiv.org/abs/2211.07566), **Zelong Zeng**, Fan Yang, Hong Liu, Shin'ichi Satoh \| [**Code**](https://github.com/ZelongZeng/OBD-SD_Pytorch) 
 - ``Preprint 2022`` [Improving Generalization of Metric Learning via Listwise Self-distillation](https://arxiv.org/abs/2206.08880), **Zelong Zeng**, Fan Yang, Zheng Wang, Shin'ichi Satoh \| [**Code**](https://github.com/ZelongZeng/Improving-Generalization-of-Metric-Learning-via-Listwise-Self-distillation) 
 
