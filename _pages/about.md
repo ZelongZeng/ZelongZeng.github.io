@@ -26,8 +26,8 @@ I’m currently a Researcher at [SenseTime Japan](https://www.sensetime.jp/) (�
 
 
 # 🔥 News
-- 2024.07: 🎉🎉 One our [paper](https://arxiv.org/abs/2404.17961) (Anomaly Segmentation in Autonomous Vehicles) is accpted to ECCV 2024. 
-- 2024.03: 🎉🎉 One our [paper](https://link.springer.com/article/10.1007/s44267-024-00051-0) (Metic Learning) is accpted to Viusal Intelligence 2024. 
+- 2024.07: 🎉🎉 One our [paper](https://arxiv.org/abs/2404.17961) (anomaly segmentation in autonomous vehicles) is accpted to ECCV 2024. 
+- 2024.03: 🎉🎉 One our [paper](https://link.springer.com/article/10.1007/s44267-024-00051-0) (metic learning) is accpted to Viusal Intelligence 2024. 
 - 2023.04: I join [SenseTime Japan](https://www.sensetime.jp/) (センスタイムジャパン) as a AI Researcher in Tokyo. 
 - 2023.03: 🎉🎉 I successfully received my PhD degree from the University of Tokyo! 
 - 2023.03: I released the code ([PLCD](https://github.com/ZelongZeng/PLCD) and [OBD-SD](https://github.com/ZelongZeng/OBD-SD_Pytorch)) of my two papers in Github. 
