@@ -33,7 +33,7 @@ I’m currently a Researcher at [SenseTime Japan](https://www.sensetime.jp/) (�
 - 2023.03: I released the code ([PLCD](https://github.com/ZelongZeng/PLCD) and [OBD-SD](https://github.com/ZelongZeng/OBD-SD_Pytorch)) of my two papers in Github. 
 
 # 📝 Publications 
-- ``ECCV 2024`` [Random Walk on Pixel Manifolds for Anomaly Segmentation of Complex Driving Scenes](https://arxiv.org/abs/2404.17961), **Zelong Zeng**, Kaname Tomite\| [**Code**](https://github.com/ZelongZeng/RWPM) 
+- ``ECCV 2024`` [Random Walk on Pixel Manifolds for Anomaly Segmentation of Complex Driving Scenes](https://arxiv.org/abs/2404.17961), **Zelong Zeng**, Kaname Tomite\| [**Code**](https://github.com/ZelongZeng/RWPM) [**Video**](https://www.youtube.com/watch?v=pQvQkbjaDeM)
 - ``Visual Intelligence 2024`` [Improving deep metric learning via self-distillation and online batch diffusion process](https://link.springer.com/article/10.1007/s44267-024-00051-0), **Zelong Zeng**, Fan Yang, Hong Liu, Shin'ichi Satoh, **Visual Intelligence 2024** \| [**Code**](https://github.com/ZelongZeng/OBD-SD_Pytorch) 
 - ``IEEE TMM 2022`` [Geo-localization via ground-to-satellite cross-view image retrieval](https://ieeexplore.ieee.org/abstract/document/9684950), **Zelong Zeng**, Zheng Wang, Fan Yang, Shin'ichi Satoh, **IEEE Transactions on Multimedia 2022** \| [**Code**](https://github.com/ZelongZeng/PLCD) 
 - ``ACM-MM 2020`` [Progressive Domain Adaptation for Robot Vision Person Re-identification](https://dl.acm.org/doi/abs/10.1145/3394171.3414358), Zijun Sha, **Zelong Zeng (co-first author)**, Zheng Wang, Yoichi Natori, Yasuhiro Taniguchi, Shin'ichi Satoh, **ACM Multimedia 2020** \| [**Demo**](https://www.youtube.com/watch?v=W8W_N0vrHsQ) 
